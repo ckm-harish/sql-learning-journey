@@ -30,6 +30,6 @@ MySQL practice repository documenting my progress from SQL fundamentals toward d
 
 ## Tools
 
-- MySQL
+- SQL Plus
 - MySQL Workbench
 - GitHub
